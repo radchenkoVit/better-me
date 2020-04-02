@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="BetteMe Reegression Suite">
+    <test name="Tests">
+        <classes>
+            <class name="better.login.LoginControllerTest"/>
+            <class name="better.register.RegisterControllerTest"/>
+            <class name="better.RegisterLoginTest"/>
+        </classes>
+    </test>
+</suite>
